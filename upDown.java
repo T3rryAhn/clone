@@ -1,3 +1,5 @@
+//소스 코드 수정 
+
 package game;
 
 import java.util.Scanner;
@@ -24,4 +26,4 @@ public class upDown {
 		System.out.println("축하합니다. 시도 횟수는 " + count + " 번 입니다.");
 	}
 
-}
+}중
